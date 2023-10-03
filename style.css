@@ -109,15 +109,10 @@ main > p{
 
 }
 
-main > picture{
+main  img {
     width: 100%;   
     display: block;
     margin: auto;
-}
-
-main > img {
-    width: 100%;   
-    
 }
 
 div.video{
