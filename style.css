@@ -116,8 +116,8 @@ main > picture{
 }
 
 main > img {
-    display: block;
-    margin: auto;
+    width: 100%;   
+    
 }
 
 div.video{
